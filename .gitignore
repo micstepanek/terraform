@@ -1,3 +1,10 @@
+# Keys
+*.json
+
+# Temporary files
+*.swp
+
+# GitHub Terraform .gitignore follows:
 # Local .terraform directories
 **/.terraform/*
 
